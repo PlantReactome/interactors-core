@@ -9,7 +9,7 @@ public class InteractorConstant {
 
     public static final String PSICQUIC = "psicquic";
 
-    public static final Double MINIMUM_VALID_SCORE = 0.45;
+    public static final Double MINIMUM_VALID_SCORE = 0.0;
 
     public static final Double TUPLE_DEFAULT_SCORE = 1.0;
     public static final String TUPLE_PREFIX = "PSI-";
